@@ -1,5 +1,5 @@
 
-<a  href="#"><img style="margin-left:26rem;" width="200px" height="auto" src="developer.svg" height="50px"/></a>
+<div align="center"><a  href="#"><img  width="200px" height="auto" src="developer.svg" height="50px"/></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Pravin</b></h1>
 <h3 align="center">I'm a passionate Front-End Developer from Pune(Maharashtra).</h3>
