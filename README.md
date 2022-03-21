@@ -1,3 +1,4 @@
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Pravin</b></h1>
@@ -45,10 +46,12 @@
 ## 📊 My Github Stats
 
   <br/>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pravinargade18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="pravinargade18's Github Stats">
   
+   <img style="width: 30rem;"  src="https://github-readme-stats.vercel.app/api?username=pravinargade18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="pravinargade18's Github Stats">
+   <a align="right" style="margin-left: 5px;" href="https://github.com/pravinargade18/github-readme-stats"><img    alt="Pravin Argade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinargade18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0,000000,130F40" /></a>
+   
+
  
-   <a href="https://github.com/pravinargade18/github-readme-stats"><img  alt="Pravin Argade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinargade18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0,000000,130F40" /></a>
   
   <br/>
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
