@@ -48,7 +48,7 @@
   <br/>
   <div align="center"  >
    <img style="width: 30rem;"  src="https://github-readme-stats.vercel.app/api?username=pravinargade18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="pravinargade18's Github Stats">
-   <a style="margin-left: 5px;" href="https://github.com/pravinargade18/github-readme-stats"><img    alt="Pravin Argade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinargade18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0,000000,130F40" /></a>
+   <a style="margin-left: 5px;" href="https://github.com/pravinargade18/github-readme-stats"><img    alt="Pravin Argade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinargade18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0,000000,130F40" /></a>
    </div>
    
 
