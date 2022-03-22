@@ -75,6 +75,7 @@
 <a href = "www.linkedin.com/in/pravin-argade-25a117212"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Pravinargade18"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/pravinargade18/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "http://discordapp.com/users/Pravinargade18"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
 
 </p>
 
