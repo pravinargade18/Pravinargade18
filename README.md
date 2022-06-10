@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>Pravin</b></h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm <b>Pravin</b></h1>
 <h3 align="center">Front-End developer🌐 | Competitive Programmer🧑‍💻 | UI/UX Enthusiast 💻</h3>
 
 <div align="center"><a  href="#"><img  width="1450px" height="auto" src="Banner.png" height="396px"/></a></div>
