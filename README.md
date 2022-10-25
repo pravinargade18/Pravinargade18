@@ -63,10 +63,10 @@
 
 <!-- <a href="https://github.com/pravinargade18/github-readme-activity-graph"><img alt="Pravin Argade's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pravinargade18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-![Snake Graph](github-user-contribution.svg)
+<!-- ![Snake Graph](github-user-contribution.svg) -->
 
 ##Snake graph
-![snake gif](https://github.com/pravinargade18/pravinargade18/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pravinargade18/pravinargade18/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
