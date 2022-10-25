@@ -66,7 +66,7 @@
 <!-- ![Snake Graph](github-user-contribution.svg) -->
 
 
-![snake gif](https://github.com/pravinargade18/pravinargade18/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pravinargade18/pravinargade18/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
 <br/>
